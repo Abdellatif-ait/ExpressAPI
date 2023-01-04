@@ -1,6 +1,7 @@
 # ExpressAPI
 quick exemple of an RestAPI with express for a workshop
 # Getting started
+
 ##install packages
 First you need to install the packages
 ```
@@ -10,6 +11,7 @@ Second, you have to add the env variables in your .env file
 * PORT
 * DB_URL
 * JWT_SECRET
+
 ##Run the server
 you should use 
 ```
